@@ -2,7 +2,7 @@
   "name": "ifit",
   "short_name": "ifit",
   "display": "minimal-ui",
-  "start_url": "i-fit.netlify.com",
+  "start_url": "https://i-fit.netlify.com/",
   "theme_color": "#f1c40f",
   "background_color": "#0000",
   "icons": [
