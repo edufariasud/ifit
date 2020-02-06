@@ -1,0 +1,149 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.fixed-nav-btn {
+  position: fixed;
+  top: 5px;
+  padding-top: 15px;
+  margin-bottom: 0;
+  z-index: 997;
+}
+
+.nav-btns{
+  margin-left: 12px;
+}
+
+.fixed-nav-btn-opt {
+  position: fixed;
+  left: 23px;
+  top: 5px;
+  padding-top: 15px;
+  margin-bottom: 0;
+  z-index: 997;
+}
+
+.app-title{
+  color: white;
+  font-weight: inherit;
+  font-size: 1.64rem;
+  line-height: 100%;
+  position: fixed;
+  left: 55px;
+  top: 5px;
+  padding-top: 15px;
+  margin-bottom: 0;
+  z-index: 997;
+}
+
+.ovo {
+  background-color: #ffcc00 !important;
+}
+
+
+
+.container {
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 95%;
+}
+
+
+.crd {
+  
+  border-radius: 10px !important;
+}
+
+.col {
+  border: 0px solid #e0e0e0;
+  border-radius: 2px;
+  overflow: hidden;
+  position: relative;
+}
+
+nav {
+  color: #fff;
+  background-color: #ee6e73;
+  width: 100%;
+  height: 120px;
+  line-height: 56px;
+}
+
+.navbar-fixed {
+  position: relative;
+  height: 120px;
+  z-index: 997;
+}
+
+.fixed-nav-btn-option {
+  position: fixed;
+  left: 23px;
+  top: 5px;
+  padding-top: 80px;
+  margin-bottom: 0;
+  z-index: 997;
+}
+
+.nav-btns{
+    position: relative;
+
+  width: 30px;
+  top: 5px;
+  padding-top: 40px !important; 
+}
+
+.breadcrumbs {
+  color: #fff !important;
+  background-color: #ee6e73 !important;
+  width: 100% !important;
+  height: 56px !important;
+  line-height: 56px !important;
+}
+
+.mostardinha{background-color:#f1c40f !important}
+.mostardinha-text{color:#f1c40f !important}
+
+.collection {
+   border: 1px solid #0000;
+  border-radius: px;
+ 
+}
+
+.collection .collection-item.avatar:not(.circle-clipper) > .circle,
+.collection .collection-item.avatar :not(.circle-clipper) > .circle {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  overflow: hidden;
+  left: 10px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+
+.collection .collection-item.avatar {
+  min-height: 84px;
+  padding-left: 115px;
+  position: relative;
+}
+
+
+.fixed-nav-btn-opt-right {
+  position: fixed;
+  right: 23px;
+  top: 5px;
+  padding-top: 15px;
+  margin-bottom: 0;
+  z-index: 997;
+}
